@@ -2,7 +2,7 @@
 
 
 <img src="./img/Projeto.png" alt="Imagem do Projeto">
-<img src="./img/responsivo.pmg" alt="Projeto Responsivo">
+<img src="./img/responsivo.png" alt="Projeto Responsivo">
 
 > Projeto de interface responsivo.
 
